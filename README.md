@@ -1,7 +1,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Knave1984&label=Ziyaretçi%20Sayısı&color=552b75" alt="Knave1984" />
 
-[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/250274369996062721)](https://discord.com/users/250274369996062721)
+[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/:250274369996062721)](https://discord.com/users/:250274369996062721)
 
 
 ## 🏆 Trophies
