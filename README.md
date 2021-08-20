@@ -1,8 +1,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=Knave1984&label=Ziyaretçi%20Sayısı&color=552b75" alt="Knave1984" />
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/250274369996062721)](https://discord.com/users/250274369996062721)
-
 
 ## 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Knave1984&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
